@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+pc/config.json
+
+# Android / Gradle
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+android/local-maven/
+android/.idea/
+*.iml
+local.properties
+.cxx/
+android/app-debug.apk
+
+# Sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
